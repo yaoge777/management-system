@@ -1,0 +1,25 @@
+server:
+  port: 9999
+
+spring:
+  datasource:
+    username: root
+    password: yzr980812
+    url: jdbc:mysql:///d1
+
+  redis:
+    port: 6379
+    host: localhost
+
+logging:
+  level:
+    com.lantu: debug
+
+
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-field: deleted
+      logic-not-delete-value: 0
+      logic-delete-value: 1
+  type-aliases-package: com.example.backend.*.entity
