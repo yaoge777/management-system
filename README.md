@@ -1,24 +1,32 @@
 # mag
 
-## Project setup
-```
-yarn install
-```
+###
+login in with diffferent account, dynamicly load the router
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![image] (https://github.com/yaoge777/management-system/blob/main/imgs/login1.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+![image] (https://github.com/yaoge777/management-system/blob/main/imgs/login2.png)
 
-### Lints and fixes files
-```
-yarn lint
-```
+###
+add
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image] (https://github.com/yaoge777/management-system/blob/main/imgs/add.png)
+
+###
+update
+
+![image] (https://github.com/yaoge777/management-system/blob/main/imgs/edit.png)
+
+
+###
+delete
+
+![image] (https://github.com/yaoge777/management-system/blob/main/imgs/delete.png)
+
+###
+search
+
+![image] (https://github.com/yaoge777/management-system/blob/main/imgs/query.png)
+
+
+
